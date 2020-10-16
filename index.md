@@ -4,7 +4,9 @@
 
 ### Academic Projects
 
-[Interpretable AI: Image Classification with Improved Visual Attention](https://github.com/fcUalberta/UAlberta-Multimedia-Masters-Program-Interpretable-AI-Part_1_2/blob/master/Feature_CAM_Interpretable_AI_In_Image_Classification.pdf)
+[1. Interpretable AI: Image Classification with Improved Visual Attention](https://github.com/fcUalberta/UAlberta-Multimedia-Masters-Program-Interpretable-AI-Part_1_2/blob/master/Feature_CAM_Interpretable_AI_In_Image_Classification.pdf)
+
+[Code](https://github.com/fcUalberta/UAlberta-Multimedia-Masters-Program-Interpretable-AI-Part_1_2) [Presentation](https://www.youtube.com/watch?v=EqVQBJbPpvk)
 <img src="https://github.com/fcUalberta/UAlberta-Multimedia-Masters-Program-Interpretable-AI-Part_1_2/blob/master/Results/fig1_12.png?raw=true"/>
 
 ---
