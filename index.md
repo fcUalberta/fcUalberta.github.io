@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Academic Projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Interpretable AI: Image Classification with Improved Visual Attention](https://github.com/fcUalberta/UAlberta-Multimedia-Masters-Program-Interpretable-AI-Part_1_2/blob/master/Feature_CAM_Interpretable_AI_In_Image_Classification.pdf)
+<img src="https://github.com/fcUalberta/UAlberta-Multimedia-Masters-Program-Interpretable-AI-Part_1_2/blob/master/Results/fig1_12.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
