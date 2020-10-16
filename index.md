@@ -20,7 +20,7 @@
 
 ### Research Projects
 
-##### 1. Interpretable AI: Image Classification with Improved Visual Attention
+##### 1. Feature CAM: Interpretable AI in Image Classification with Improved Visual Attention
 
 * [Code](https://github.com/fcUalberta/UAlberta-Multimedia-Masters-Program-Interpretable-AI-Part_1_2) 
 * [Paper](https://github.com/fcUalberta/UAlberta-Multimedia-Masters-Program-Interpretable-AI-Part_1_2/blob/master/Feature_CAM_Interpretable_AI_In_Image_Classification.pdf)
