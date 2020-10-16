@@ -2,6 +2,24 @@
 
 ---
 
+### Education
+
+- MSc. in Computing Science, University of Alberta (GPA 4.0/4.0)
+- MBA, Indian Institute of Management, Kozhikode (Top 5 B-school in India)
+- Bachelors in Computer Science Engineering, India
+
+---
+
+### Experience
+
+- Machine Learning Engineer, AltaML Inc.
+- Software Engineer, Computronix
+- Marketing Strategist, Supply Chain Canada
+- Business Strategy Manager, Verbalized Ltd.
+- Business Manager, NMC Trading LLC
+
+---
+
 ### Research Projects
 
 [1. Interpretable AI: Image Classification with Improved Visual Attention](https://github.com/fcUalberta/UAlberta-Multimedia-Masters-Program-Interpretable-AI-Part_1_2/blob/master/Feature_CAM_Interpretable_AI_In_Image_Classification.pdf)
@@ -38,19 +56,8 @@
 <img src="https://github.com/fcUalberta/tless_edge_based/blob/master/images_for_readme/features.jpg?raw=true"/>
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<!-- <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> -->
 <!-- Remove above link if you don't want to attibute -->
