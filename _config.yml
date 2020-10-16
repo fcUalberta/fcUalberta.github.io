@@ -1,5 +1,5 @@
 title: John Doe # your name (or website title) here
-logo: "/images/DSC_0487_1.jpg?raw=true" # your photo (or logo) here
+logo: "/images/DSC_0487_1.jpg?raw=true"{: style="height:150px;width:150px"} # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
   <br><br>
