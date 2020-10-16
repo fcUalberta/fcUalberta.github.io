@@ -20,7 +20,7 @@
 
 ### Research Projects
 
-#### 1. Interpretable AI: Image Classification with Improved Visual Attention
+##### 1. Interpretable AI: Image Classification with Improved Visual Attention
 
 * [Code](https://github.com/fcUalberta/UAlberta-Multimedia-Masters-Program-Interpretable-AI-Part_1_2) 
 * [Paper](https://github.com/fcUalberta/UAlberta-Multimedia-Masters-Program-Interpretable-AI-Part_1_2/blob/master/Feature_CAM_Interpretable_AI_In_Image_Classification.pdf)
@@ -30,7 +30,7 @@
 
 ---
 
-#### 2. InSAR Coherence Estimation using Multi-Stage Super Pixeling
+##### 2. InSAR Coherence Estimation using Multi-Stage Super Pixeling
 
 * [Code](https://github.com/fcUalberta/InSARImageCoherence) 
 * [Paper](https://github.com/fcUalberta/InSARImageCoherence/blob/main/misc/InSAR%20Image%20Coherence%20Project%20Report.pdf)
@@ -40,7 +40,7 @@
 
 ---
 
-#### 3. Interactive Data-driven Dashboard for Covid-19 with Analytics and Forecasting
+##### 3. Interactive Data-driven Dashboard for Covid-19 with Analytics and Forecasting
 
 * [Code](https://github.com/fcUalberta/covid-dashboard) 
 * [Paper](https://github.com/fcUalberta/covid-dashboard/blob/master/Interactive%20Data%20Driven%20Visualization%20for%20Covid19.pdf)
@@ -53,7 +53,7 @@
 
 ---
 
-#### 4. Industrial Textureless Object Recognition using an Edge-based approach
+##### 4. Industrial Textureless Object Recognition using an Edge-based approach
 
 * [Code](https://github.com/fcUalberta/tless_edge_based) 
 * [Paper](https://github.com/fcUalberta/tless_edge_based/blob/master/Industrial%20Textureless%20Object%20Recognition.pdf)
