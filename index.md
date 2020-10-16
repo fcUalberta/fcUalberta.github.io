@@ -6,12 +6,16 @@
 
 [1. Interpretable AI: Image Classification with Improved Visual Attention](https://github.com/fcUalberta/UAlberta-Multimedia-Masters-Program-Interpretable-AI-Part_1_2/blob/master/Feature_CAM_Interpretable_AI_In_Image_Classification.pdf)
 
-[Code](https://github.com/fcUalberta/UAlberta-Multimedia-Masters-Program-Interpretable-AI-Part_1_2) [Presentation](https://www.youtube.com/watch?v=EqVQBJbPpvk)
+* [Code](https://github.com/fcUalberta/UAlberta-Multimedia-Masters-Program-Interpretable-AI-Part_1_2) 
+* [Presentation](https://www.youtube.com/watch?v=EqVQBJbPpvk)
 <img src="https://github.com/fcUalberta/UAlberta-Multimedia-Masters-Program-Interpretable-AI-Part_1_2/blob/master/Results/fig1_12.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[InSAR Coherence Estimation using Multi-Stage Super Pixeling](https://github.com/fcUalberta/InSARImageCoherence/blob/main/misc/InSAR%20Image%20Coherence%20Project%20Report.pdf)
+
+* [Code](https://github.com/fcUalberta/InSARImageCoherence) 
+* [Presentation](https://www.youtube.com/watch?v=3jr8VFF1Ir0&feature=youtu.be)
+<img src="https://github.com/fcUalberta/InSARImageCoherence/blob/main/misc/results.PNG?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
