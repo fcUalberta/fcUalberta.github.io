@@ -10,11 +10,11 @@
 
 ### Experience
 
-- Machine Learning Engineer, AltaML Inc.
-- Software Engineer, Computronix
+- Machine Learning Engineer, AltaML Inc., Canada
+- Software Engineer, Computronix, Canada
 - Marketing Strategist, Supply Chain Canada
-- Business Strategy Manager, Verbalized Ltd.
-- Business Manager, NMC Trading LLC
+- Business Strategy Manager, Verbalized Ltd., Canada
+- Business Manager, NMC Trading LLC, Dubai, UAE
 
 ---
 
