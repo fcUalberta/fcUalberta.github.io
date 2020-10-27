@@ -46,7 +46,6 @@
 * [Paper](https://github.com/fcUalberta/covid-dashboard/blob/master/Interactive%20Data%20Driven%20Visualization%20for%20Covid19.pdf)
 * [Presentation at IV2020](https://drive.google.com/file/d/1tjRXE9lBWllZE-Iy_r49D5LEuhg8036Q/view) (Minutes 40-50)
 * [News](https://www.ualberta.ca/science/news/2020/may/covid-19-map.html)
-* [Live Dashboard](http://129.128.243.171/)
 
 <img src="https://github.com/fcUalberta/covid-dashboard/blob/master/tab11.png?raw=true"/>
 <img src="https://github.com/fcUalberta/covid-dashboard/blob/master/tab12.png?raw=true"/>
