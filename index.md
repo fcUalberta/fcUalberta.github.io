@@ -10,6 +10,7 @@
 
 ### Experience
 
+- Big Data Scientist, Customer 360, TELUS Business, Canada
 - Machine Learning Engineer, AltaML Inc., Canada
 - Software Engineer, Computronix, Canada
 - Marketing Strategist, Supply Chain Canada
